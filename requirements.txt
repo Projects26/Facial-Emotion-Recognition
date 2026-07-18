@@ -8,4 +8,4 @@ tqdm
 opencv-python-headless
 scikit-learn
 h5py
-streamlit
+
