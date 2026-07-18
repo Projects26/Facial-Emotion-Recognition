@@ -13,7 +13,7 @@ with open("emotionrecogniser.json", "r") as json_file:
     
 
 model = model_from_json(model_json)
-model.load_weights("emotionrecogniser.h5")   # Make sure this file exists
+model.load_weights("emotionrecogniser.weights.h5")   # Make sure this file exists
 
 # Load Face Detector
 import os
