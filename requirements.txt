@@ -1,0 +1,11 @@
+tensorflow
+keras
+pandas
+numpy
+jupyter
+notebook
+tqdm
+opencv-python-headless
+scikit-learn
+h5py
+streamlit
